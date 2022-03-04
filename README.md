@@ -8,7 +8,7 @@ The techinical approach and methmetical formulation are all contained in the Bin
 
 # Data
 
-under the data floder
+Under the data floder
 
 # Requirement：
 
