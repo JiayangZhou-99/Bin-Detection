@@ -1,6 +1,9 @@
 # Bin-Detection
+# Data
 
-Requirement：
+under the data floder
+
+# Requirement：
 
 opencv-python==4.1.2.30
 
